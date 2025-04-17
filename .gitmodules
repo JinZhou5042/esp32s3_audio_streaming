@@ -1,0 +1,3 @@
+[submodule "main/frame/frame-codebase"]
+	path = main/frame/frame-codebase
+	url = https://github.com/brilliantlabsAR/frame-codebase
